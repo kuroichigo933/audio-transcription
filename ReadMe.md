@@ -12,5 +12,6 @@ We are utilizing uvicorn to setup an API that can be triggered through postman. 
 you can run the uvicorn setup by starting the program at the bottom of the `main.py` file.
 Once the app is loaded, prompts can be transcribed and generated through the `/prompt/encodedAudio` or `/prompt/file` APIs
 
+Picture showing an audio file prompt of "When does the pool open?"
+<img width="908" height="528" alt="image" src="https://github.com/user-attachments/assets/f6c1094d-3959-4cc3-a668-d70762b2f7ed" />
 
-:
