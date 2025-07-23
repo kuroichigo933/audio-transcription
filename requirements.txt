@@ -1,0 +1,12 @@
+fastapi~=0.116.1
+uvicorn~=0.35.0
+openai-whisper
+pydub
+python-multipart
+numpy~=2.0.2
+soundfile~=0.13.1
+scipy~=1.13.1
+gpt4all~=2.8.2
+torch
+transformers
+pydantic~=2.11.7
